@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>liyanbo subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Outside" title="Outside">
+            <outline type="rss" text="The Verge - All Posts" title="The Verge - All Posts" xmlUrl="https://rsshub.app/verge" htmlUrl="https://www.theverge.com/"/>
+            <outline type="rss" text="纽约时报中文网 国际纵览" title="纽约时报中文网 国际纵览" xmlUrl="http://cn.nytimes.com/rss/news.xml" htmlUrl="https://cn.nytimes.com"/>
+            <outline type="rss" text="The Guardian - Editorial" title="The Guardian - Editorial" xmlUrl="https://rsshub.app/guardian/editorial" htmlUrl="https://www.theguardian.com/profile/editorial"/>
+            <outline type="rss" text="纽约时报" title="纽约时报" xmlUrl="https://feedx.net/rss/nytimes.xml" htmlUrl="https://nytimes.com"/>
+            <outline type="rss" text="FT中文" title="FT中文" xmlUrl="https://feedx.pw/rss/ft.xml" htmlUrl="https://www.ft.com/"/>
+            <outline type="rss" text="Hacker News Best" title="Hacker News Best" xmlUrl="http://hnbest.heroku.com/rss" htmlUrl="https://news.ycombinator.com/best"/>
+            <outline type="rss" text="端传媒" title="端传媒" xmlUrl="https://rsshub.app/initium/latest/zh-hans" htmlUrl="https://theinitium.com/channel/latest/"/>
+            <outline type="rss" text="Deutsche Welle: DW-WORLD.DE" title="Deutsche Welle: DW-WORLD.DE" xmlUrl="http://rss.dw-world.de/rdf/rss-chi-all" htmlUrl="http://www.dw.com/chinese/?maca=chi-rss-chi-all-1127-rdf"/>
+            <outline type="rss" text="路透中文" title="路透中文" xmlUrl="https://feedx.net/rss/reuters.xml" htmlUrl="http://reuters.com"/>
+            <outline type="rss" text="BBC Chinese - 主页" title="BBC Chinese - 主页" xmlUrl="http://www.bbc.co.uk/zhongwen/simp/index.xml" htmlUrl="http://www.bbcchinese.com"/>
+            <outline type="rss" text="美国之音" title="美国之音" xmlUrl="http://www.voanews.com/templates/Articles.rss?sectionPath=/chinese/news" htmlUrl="https://www.voachinese.com"/>
+            <outline type="rss" text="The New Yorker" title="The New Yorker" xmlUrl="https://feedx.net/rss/newyorker.xml" htmlUrl="https://www.newyorker.com"/>
+        </outline>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="GitChat" title="GitChat" xmlUrl="https://rsshub.app/gitchat/newest" htmlUrl="https://gitbook.cn/"/>
+            <outline type="rss" text="掘金本周最热" title="掘金本周最热" xmlUrl="https://rsshub.app/juejin/trending/all/weekly" htmlUrl="https://juejin.im/recommended?sort=weekly_hottest"/>
+            <outline type="rss" text="安全客-有思想的安全新媒体" title="安全客-有思想的安全新媒体" xmlUrl="https://api.anquanke.com/data/v1/rss" htmlUrl="https://www.anquanke.com"/>
+            <outline type="rss" text="Github Trending" title="Github Trending" xmlUrl="https://rsshub.app/github/trending/daily" htmlUrl="https://github.com/trending/?since=daily"/>
+            <outline type="rss" text="HelloGitHub 月刊" title="HelloGitHub 月刊" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com"/>
+            <outline type="rss" text="推酷《编程狂人》周刊" title="推酷《编程狂人》周刊" xmlUrl="http://www.tuicool.com/mags/rss_programming.rss" htmlUrl="https://www.tuicool.com/mags"/>
+            <outline type="rss" text="技术头条" title="技术头条" xmlUrl="https://rsshub.app/blogread/newest" htmlUrl="http://blogread.cn/news/newest.php"/>
+            <outline type="rss" text="美团技术团队" title="美团技术团队" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
+            <outline type="rss" text="开源中国-软件更新资讯" title="开源中国-软件更新资讯" xmlUrl="https://rsshub.app/oschina/news/project" htmlUrl="https://www.oschina.net/news/project"/>
+            <outline type="rss" text="Python_博客园" title="Python_博客园" xmlUrl="http://www.cnblogs.com/cate/python/rss" htmlUrl="http://www.cnblogs.com/cate/python/"/>
+        </outline>
+        <outline text="Inside" title="Inside">
+            <outline type="rss" text="新周刊" title="新周刊" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/d93f5db4-cb8d-49fa-a66a-cecf9214ecf3.xml" htmlUrl="https://werss.app?name=%E6%96%B0%E5%91%A8%E5%88%8A"/>
+            <outline type="rss" text="钛媒体" title="钛媒体" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/ffd2fae2-f82b-4ee2-b866-1f40079a83ab.xml" htmlUrl="https://werss.app?name=%E9%92%9B%E5%AA%92%E4%BD%93"/>
+            <outline type="rss" text="观察者网 - 头条" title="观察者网 - 头条" xmlUrl="https://rsshub.app/guancha/headline" htmlUrl="https://www.guancha.cn/GuanChaZheTouTiao/list_1.shtml"/>
+            <outline type="rss" text="知乎日报" title="知乎日报" xmlUrl="https://rsshub.app/zhihu/daily" htmlUrl="https://daily.zhihu.com"/>
+            <outline type="rss" text="浪潮工作室" title="浪潮工作室" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/e1cb77c7-8279-4806-bb72-5fccc1ad938d.xml" htmlUrl="https://werss.app?name=%E6%B5%AA%E6%BD%AE%E5%B7%A5%E4%BD%9C%E5%AE%A4"/>
+            <outline type="rss" text="少数派" title="少数派" xmlUrl="http://sspai.me/feed" htmlUrl="https://sspai.com"/>
+            <outline type="rss" text="今日热门-什么值得买好文" title="今日热门-什么值得买好文" xmlUrl="https://rsshub.app/smzdm/haowen/1" htmlUrl="https://post.smzdm.com/hot_1"/>
+            <outline type="rss" text="36氪 - 24小时热榜" title="36氪 - 24小时热榜" xmlUrl="https://rss.mifaw.com/articles/5c8bb11a3c41f61efd36683e/5c91d2e23882afa09dff4901" htmlUrl="https://www.36kr.com"/>
+            <outline type="rss" text="Sir电影迷" title="Sir电影迷" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/fc13a38b-ec5a-48f3-8a22-5dc483d4e211.xml" htmlUrl="https://werss.app?name=Sir%E7%94%B5%E5%BD%B1%E8%BF%B7"/>
+            <outline type="rss" text="虎嗅网" title="虎嗅网" xmlUrl="http://www.huxiu.com/rss/0.xml" htmlUrl="http://www.huxiu.com"/>
+            <outline type="rss" text="知乎专栏-知乎早报" title="知乎专栏-知乎早报" xmlUrl="https://rsshub.app/zhihu/zhuanlan/c_1085975047386050560" htmlUrl="https://www.zhihu.com/column/c_1085975047386050560"/>
+            <outline type="rss" text="热门网络梗普及 - 即刻圈子" title="热门网络梗普及 - 即刻圈子" xmlUrl="https://rsshub.app/jike/topic/54eee25fe4b0b0057177fc59" htmlUrl="https://m.okjike.com/topics/54eee25fe4b0b0057177fc59"/>
+            <outline type="rss" text="南风窗" title="南风窗" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/2c187798-fb8e-4665-9e95-e58121021ef2.xml" htmlUrl="https://werss.app?name=%E5%8D%97%E9%A3%8E%E7%AA%97"/>
+            <outline type="rss" text="TechWeb" title="TechWeb" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/ef802d7a-cd92-4fc0-b4f8-918e8a598013.xml" htmlUrl="https://werss.app?name=TechWeb"/>
+            <outline type="rss" text="历史研习社" title="历史研习社" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/aab1a192-deef-44fe-994b-56fd3d153a72.xml" htmlUrl="https://werss.app?name=%E5%8E%86%E5%8F%B2%E7%A0%94%E4%B9%A0%E7%A4%BE"/>
+            <outline type="rss" text="棱镜" title="棱镜" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/76c4874a-b65a-49db-a16b-6228fa57e49e.xml" htmlUrl="https://werss.app?name=%E6%A3%B1%E9%95%9C"/>
+            <outline type="rss" text="晚点LatePost-最新报道" title="晚点LatePost-最新报道" xmlUrl="https://rsshub.app/latepost" htmlUrl="https://www.latepost.com"/>
+            <outline type="rss" text="南方周末-新闻" title="南方周末-新闻" xmlUrl="https://rsshub.app/infzm/2" htmlUrl="http://www.infzm.com/contents?term_id=2"/>
+            <outline type="rss" text="知道日报" title="知道日报" xmlUrl="https://rsshub.app/baidu/daily" htmlUrl="https://zhidao.baidu.com/daily?fr=daohang"/>
+            <outline type="rss" text="公众号「三联生活实验室」" title="公众号「三联生活实验室」" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/339795dd-0107-4cad-bf01-e695c842f111.xml" htmlUrl="https://werss.app?name=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%AE%9E%E9%AA%8C%E5%AE%A4"/>
+            <outline type="rss" text="MIT 科技评论 - 本周热榜" title="MIT 科技评论 - 本周热榜" xmlUrl="https://rsshub.app/mittrchina/hot" htmlUrl="http://www.mittrchina.com/"/>
+            <outline type="rss" text="互联网er的早读课" title="互联网er的早读课" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/aa9d4eea-2a79-4045-acd0-80093b108f6c.xml" htmlUrl="https://werss.app?name=%E4%BA%92%E8%81%94%E7%BD%91er%E7%9A%84%E6%97%A9%E8%AF%BB%E8%AF%BE"/>
+            <outline type="rss" text="我要WhatYouNeed" title="我要WhatYouNeed" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/a4de6a9e-056d-46d5-9a0c-d6ee1d42d22d.xml" htmlUrl="https://werss.app?name=%E6%88%91%E8%A6%81WhatYouNeed"/>
+            <outline type="rss" text="人物" title="人物" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/58639bc6-7d57-44c2-83fd-a17e43ab691f.xml" htmlUrl="https://werss.app?name=%E4%BA%BA%E7%89%A9"/>
+            <outline type="rss" text="果壳网 科学人" title="果壳网 科学人" xmlUrl="https://rsshub.app/guokr/scientific" htmlUrl="https://www.guokr.com/scientific"/>
+            <outline type="rss" text="每日精品限免 / 促销应用" title="每日精品限免 / 促销应用" xmlUrl="https://rsshub.app/appstore/xianmian" htmlUrl="http://app.so/xianmian/"/>
+            <outline type="rss" text="ONE · 一个" title="ONE · 一个" xmlUrl="https://rsshub.app/one" htmlUrl="http://wufazhuce.com/"/>
+            <outline type="rss" text="Readhub - 每日早报" title="Readhub - 每日早报" xmlUrl="https://rsshub.app/readhub/category/daily" htmlUrl="https://readhub.cn/daily"/>
+            <outline type="rss" text="外滩TheBund" title="外滩TheBund" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/1bcb42da-e9a2-49eb-9b96-2bbdefc29a67.xml" htmlUrl="https://werss.app?name=%E5%A4%96%E6%BB%A9TheBund"/>
+            <outline type="rss" text="ZAKER精读新闻" title="ZAKER精读新闻" xmlUrl="http://rsshub.app/zaker/focusread" htmlUrl="http://www.myzaker.com/?pos=selected_article"/>
+            <outline type="rss" text="差评" title="差评" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/97ecccd7-38c4-4ce6-b29e-f268212f871a.xml" htmlUrl="https://werss.app?name=%E5%B7%AE%E8%AF%84"/>
+            <outline type="rss" text="互联网的一些事" title="互联网的一些事" xmlUrl="http://feed.yixieshi.com/" htmlUrl="https://www.yixieshi.com"/>
+            <outline type="rss" text="小声比比" title="小声比比" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/dbe51c8f-ba70-4250-8152-b013f3eb0eb3.xml" htmlUrl="https://werss.app?name=%E5%B0%8F%E5%A3%B0%E6%AF%94%E6%AF%94"/>
+        </outline>
+    </body>
+</opml>
